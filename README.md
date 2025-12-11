@@ -19,7 +19,7 @@ My Favourite programming language is Python 🐍 as it is way more simple than o
 ---
 
 ## 📋 Top Languages
--English (🇬🇧) ::::> Level B1 💂
+-English (🇬🇧) ::::> Level Advanced 💂
 
 -Spanish (🇪🇸) ::::> Level Native 💃
 
